@@ -7,4 +7,4 @@
 "Users do not need to rely on a centralized authority to administer GUIDs, as anyone can use a generation algorithm to create a GUID. Individuals and organizations can create GUIDs using a free GUID generator that is available online. An online generator constructs a unique GUID according to RFC 4122. When creating a GUID, users should note the timestamp, clock sequence and the node ID -- such as a Media Access Control (MAC) address.
 
 ## web server 
-- [LiteSpeed Web Server - Wikipedia](https://en.wikipedia.org/wiki/LiteSpeed_Web_Server) { LSWS s.2003 apache-compatible-conf } 
+- [LiteSpeed Web Server - Wikipedia](https://en.wikipedia.org/wiki/LiteSpeed_Web_Server) { LSWS s.2003 apache-compatible-conf support-of-( https://en.wikipedia.org/wiki/HTTP/3) } 
